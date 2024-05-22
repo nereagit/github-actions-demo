@@ -12,7 +12,7 @@ end_chat = False
 try:
     while True:
         print()
-        chatContentType = input('Content Type: ')
+        contentType = input('Content Type: ')
         contentObjective = input('Content Objective: ')
         studentSegment = input('Student Segment (a/b/c): ')
 
